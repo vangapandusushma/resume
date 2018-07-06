@@ -1,0 +1,21 @@
+
+{
+  "co""this is my strenght",
+  "data":{
+    "details":"1234345"
+  },
+  "education":[{
+    "name":"degree",
+    "inst":"i am completed my btech in loyola"
+  },
+  {
+    "name":"intermediate:",
+    "inst":"completed my schooling in intermediate with 80%"
+  },
+  {
+  "name":"s s c:",
+  "inst": "completed my schooling in national school"
+
+    }]
+  }
+}
